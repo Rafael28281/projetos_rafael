@@ -1,4 +1,4 @@
-# Projeto
+# Projeto Consumo Consciente da Agua
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?logo=github&logoColor=white)
@@ -11,7 +11,7 @@ Este sistema simula uma ferramenta de triagem usada pela companhia de saneamento
 
 ## Linguagem utilizada
 
-#Python
+# **Python**
 
 ## Como executar
 
