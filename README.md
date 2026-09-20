@@ -7,15 +7,18 @@
 
 ## Objetivo do sistema
 
-s
+Este sistema simula uma ferramenta de triagem usada pela companhia de saneamento para identificar rapidamente o perfil de consumo de um imóvel (residencial ou comercial) a partir da leitura mensal do hidrômetro, e devolver ao morador uma mensagem de orientação personalizada.
 
 ## Linguagem utilizada
 
-
+#Python
 
 ## Como executar
 
-
+1. Instale o Python 3.10 ou superior.
+2. Baixe ou clone este repositório.
+3. Abra o terminal na pasta do projeto.
+4. Execute o programa: consumoAgua.py
 
 ## Regras de desconto
 
